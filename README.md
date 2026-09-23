@@ -8,7 +8,7 @@ The application will first be automatically deployed to a **staging environment*
 
 The same Docker images that are tested in staging are deployed to production. The application is **not rebuilt** during production deployment.
 
----
+--- 
 
 ## 1. Continuous Delivery Workflow
 
